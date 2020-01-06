@@ -3,7 +3,7 @@ Web Scraping of Cyanide &amp; Happiness comics (explosm.net) using python and it
 
 ## How to use
 The script can be used in two ways :
-1) update input.txt with start month/year and end month/year with the required authors and run the script. 
+1) update input.txt with start month/year and end month/year with the required authors in the third line separated by a comma and run the script. 
 2) update line 220 of scraper.py with latest(n) where n is the number of latest comics required.
 
 ## Screenshots
